@@ -1,0 +1,31 @@
+#header-logo {
+    height: 80px;
+}
+
+.top-header {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    background: #052026;
+    background: -webkit-linear-gradient(
+            to top,
+            rgba(5, 32, 38, 0.5),
+            rgba(17, 80, 117, 0.5)
+        ),
+        url(https://www.gauhati.ac.in/media/banner/1628846989.jpg);
+
+    background: linear-gradient(
+            to top,
+            rgba(5, 32, 38, 0.5),
+            rgba(17, 80, 117, 0.5)
+        ),
+        url(https://www.gauhati.ac.in/media/banner/1628846989.jpg);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* .header {
+    background-color: #052026;
+}
+.navbar {
+    background-color: #052026;
+} */
