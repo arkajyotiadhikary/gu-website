@@ -1,3 +1,7 @@
+* {
+    padding: 0;
+}
+
 #header-logo {
     height: 80px;
 }
@@ -23,9 +27,10 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-/* .header {
+.footer-info {
+    background-color: #115075;
+}
+.footer-end {
+    color: aliceblue;
     background-color: #052026;
 }
-.navbar {
-    background-color: #052026;
-} */
